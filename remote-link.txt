@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rand-qui-porter-advantages.trycloudflare.com/vnc.html
+URL       : https://kirk-opera-everything-anniversary.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 16:05:22
+Created   : 2026-08-13 20:52:23
 =======================================================
