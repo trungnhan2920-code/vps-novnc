@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://opponent-sought-hint-tenant.trycloudflare.com/vnc.html
+URL       : https://science-vocal-recognized-olympic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 10:30:47
+Created   : 2026-08-15 15:29:08
 =======================================================
