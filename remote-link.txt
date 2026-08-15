@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gulf-rebates-developed-api.trycloudflare.com/vnc.html
+URL       : https://visit-exclude-spy-trial.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 01:37:01
+Created   : 2026-08-15 05:32:21
 =======================================================
