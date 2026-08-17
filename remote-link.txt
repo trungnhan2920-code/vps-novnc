@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://scene-loop-net-reductions.trycloudflare.com/vnc.html
+URL       : https://wilson-geology-practitioners-kodak.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 15:33:02
+Created   : 2026-08-17 20:35:35
 =======================================================
