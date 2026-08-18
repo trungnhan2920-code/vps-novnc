@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mom-basement-lodge-nylon.trycloudflare.com/vnc.html
+URL       : https://ensures-dozen-postal-seasonal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 10:36:46
+Created   : 2026-08-18 15:40:00
 =======================================================
