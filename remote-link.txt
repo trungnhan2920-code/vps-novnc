@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://editorial-facility-cyber-semi.trycloudflare.com/vnc.html
+URL       : https://html-consist-lease-adams.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-21 05:39:16
+Created   : 2026-08-21 15:41:04
 =======================================================
