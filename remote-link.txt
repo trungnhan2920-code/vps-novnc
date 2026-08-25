@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hit-competitive-bend-tech.trycloudflare.com/vnc.html
+URL       : https://colour-consistency-remained-otherwise.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-25 15:52:35
+Created   : 2026-08-25 20:37:27
 =======================================================
