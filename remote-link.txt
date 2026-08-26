@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://colour-consistency-remained-otherwise.trycloudflare.com/vnc.html
+URL       : https://past-nurse-isolation-saver.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-25 20:37:27
+Created   : 2026-08-26 01:43:57
 =======================================================
