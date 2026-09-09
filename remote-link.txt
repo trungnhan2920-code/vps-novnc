@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bird-gba-effects-pickup.trycloudflare.com/vnc.html
+URL       : https://dose-jade-occasionally-revisions.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-09 09:32:20
+Created   : 2026-09-09 14:21:00
 =======================================================
