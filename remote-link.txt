@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://guarantees-vertex-joel-january.trycloudflare.com/vnc.html
+URL       : https://humanity-others-brad-journal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 09:28:58
+Created   : 2026-09-11 14:12:32
 =======================================================
