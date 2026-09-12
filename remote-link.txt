@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://again-sweet-lines-happen.trycloudflare.com/vnc.html
+URL       : https://bay-speaking-notified-maintained.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 09:10:30
+Created   : 2026-09-12 13:30:58
 =======================================================
