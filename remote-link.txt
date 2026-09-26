@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chips-airport-translation-grade.trycloudflare.com/vnc.html
+URL       : https://soldier-backgrounds-black-measuring.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-26 18:29:29
+Created   : 2026-09-26 22:37:23
 =======================================================
