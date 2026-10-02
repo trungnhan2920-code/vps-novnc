@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://when-validation-endif-renew.trycloudflare.com/vnc.html
+URL       : https://garlic-bench-impacts-vids.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 16:12:34
+Created   : 2026-10-02 23:40:58
 =======================================================
