@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://garlic-bench-impacts-vids.trycloudflare.com/vnc.html
+URL       : https://arcade-lol-substantially-russia.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 23:40:58
+Created   : 2026-10-03 04:47:12
 =======================================================
