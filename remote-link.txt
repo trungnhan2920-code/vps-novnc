@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://departure-loc-attitudes-lens.trycloudflare.com/vnc.html
+URL       : https://boring-goes-reception-actually.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-09 16:56:10
+Created   : 2026-10-09 23:56:48
 =======================================================
