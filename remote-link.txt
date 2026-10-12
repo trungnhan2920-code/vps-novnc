@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vocal-finder-gage-carried.trycloudflare.com/vnc.html
+URL       : https://promote-quantities-bizrate-quickly.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-12 05:23:42
+Created   : 2026-10-12 19:45:01
 =======================================================
