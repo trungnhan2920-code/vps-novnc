@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fotos-operational-impaired-purple.trycloudflare.com/vnc.html
+URL       : https://literary-winds-bali-assuming.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-13 20:36:04
+Created   : 2026-10-14 04:23:32
 =======================================================
