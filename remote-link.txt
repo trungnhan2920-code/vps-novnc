@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://labels-crm-iowa-relatively.trycloudflare.com/vnc.html
+URL       : https://fan-dependence-disabled-designation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 15:04:42
+Created   : 2026-10-14 23:06:58
 =======================================================
