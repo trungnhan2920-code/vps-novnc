@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://zero-calvin-application-facility.trycloudflare.com/vnc.html
+URL       : https://labels-crm-iowa-relatively.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 10:02:26
+Created   : 2026-10-14 15:04:42
 =======================================================
