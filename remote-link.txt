@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://catalogue-dancing-dem-fruit.trycloudflare.com/vnc.html
+URL       : https://ips-decor-mil-strict.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 14:43:30
+Created   : 2026-10-16 18:45:20
 =======================================================
