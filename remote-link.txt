@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ips-decor-mil-strict.trycloudflare.com/vnc.html
+URL       : https://enhanced-wondering-goes-addressed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 18:45:20
+Created   : 2026-10-16 22:44:28
 =======================================================
