@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bought-stolen-isp-cookie.trycloudflare.com/vnc.html
+URL       : https://enable-metal-debug-obvious.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 22:21:33
+Created   : 2026-10-19 04:17:01
 =======================================================
