@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://change-recipes-century-picked.trycloudflare.com/vnc.html
+URL       : https://exp-dog-desktops-firm.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-19 10:39:28
+Created   : 2026-10-19 20:30:56
 =======================================================
