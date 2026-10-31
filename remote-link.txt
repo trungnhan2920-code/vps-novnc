@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://birds-selection-behind-projected.trycloudflare.com/vnc.html
+URL       : https://education-excerpt-dictionaries-calculated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 19:13:06
+Created   : 2026-10-31 23:16:37
 =======================================================
