@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://education-excerpt-dictionaries-calculated.trycloudflare.com/vnc.html
+URL       : https://planned-beta-performer-session.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 23:16:37
+Created   : 2026-11-01 05:27:47
 =======================================================
