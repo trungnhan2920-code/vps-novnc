@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://planned-beta-performer-session.trycloudflare.com/vnc.html
+URL       : https://advert-defense-ebook-qty.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 05:27:47
+Created   : 2026-11-01 16:43:17
 =======================================================
