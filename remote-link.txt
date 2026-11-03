@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lamp-recommend-terminology-required.trycloudflare.com/vnc.html
+URL       : https://prep-pamela-exist-awareness.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 20:11:19
+Created   : 2026-11-03 06:05:48
 =======================================================
