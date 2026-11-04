@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fwd-manufacture-instructor-aug.trycloudflare.com/vnc.html
+URL       : https://wrapping-kyle-boring-whatever.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 00:32:45
+Created   : 2026-11-04 12:54:25
 =======================================================
