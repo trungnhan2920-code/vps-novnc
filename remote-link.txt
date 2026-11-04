@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dollars-kruger-spaces-singer.trycloudflare.com/vnc.html
+URL       : https://fwd-manufacture-instructor-aug.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 17:41:08
+Created   : 2026-11-04 00:32:45
 =======================================================
