@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://develop-wellness-large-ringtone.trycloudflare.com/vnc.html
+URL       : https://species-imagine-signatures-wit.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 17:57:58
+Created   : 2026-11-06 00:57:40
 =======================================================
